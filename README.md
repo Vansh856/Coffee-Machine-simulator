@@ -34,6 +34,6 @@ python coffee_machine.py
 - GUI version using Tkinter for a more interactive interface
 💻 Author
 Created by Vansh — passionate about Python, logic-based projects, and interactive simulations.
-Connect on LinkedIn → [https://www.linkedin.com/in/your-profile]
-Full code on GitHub → [https://github.com/your-github-username/coffee-machine-simulator]
+Connect on LinkedIn → www.linkedin.com/in/vansh-shan-a23407276
+
 
